@@ -26,7 +26,6 @@
 | **Frontend** | Vue.js |
 | **Database** | MySQL, PostgreSQL |
 | **DevOps / Tools** | Docker, Git, Jira, Notion |
-| **Others** | AOP, Scheduler, SSE, Optimistic Lock, DDD 구조 설계 |
 
 ---
 
@@ -78,6 +77,8 @@
 - **SSE 기반 실시간 알림** 기능으로 사용자 이벤트 구독 구현  
 - BulkUpsert + JPA Projection으로 DB I/O 절감  
 
+[TMI](https://github.com/techmaniasinformation)
+
 ---
 
 ### 🔹 **SSAFY FORCE – 알고리즘 랭킹 플랫폼**
@@ -87,12 +88,14 @@
 - **Optimistic Lock 기반 동시성 제어**로 데이터 정합성 보장  
 - SSAFY 교육생 약 50명 가입 및 실사용 운영
 
+[ssafy-force](https://github.com/SSAFYFORCE)
+
 ---
 
 ## 🧠 Algorithm & Problem Solving
 
-- **Baekjoon:** [rkdmfqka](https://solved.ac/profile/rkdmfqka)  
-  `Platinum IV` / `400+ Days Streak`
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdmfqka)](https://solved.ac/rkdmfqka)
+
 - **삼성 SW 역량테스트 (모의)** A+ 등급  
 
 ---
@@ -100,5 +103,4 @@
 ## 📫 Contact
 
 📧 **tkdgus4744@naver.com**  
-💻 **[GitHub](https://github.com/eunseongman)**  
 
