@@ -60,7 +60,7 @@
   
 ---
 
-### 🔹 TMI (Tech Mania’s Information)
+### 🔹 [TMI (Tech Mania’s Information)](https://github.com/techmaniasinformation)
 **기간:** 2025.07 ~ 2025.08  
 **인원:** 6명 (BE 3 / FE 3)  
 **역할:** Backend 60%
@@ -88,13 +88,10 @@
 
 - **기술 포인트**  
   `Java 17`, `Spring Boot 3`, `MySQL`, `Spring Data JPA`, `Redis`, `SSE`
-
-- **링크** : 
-  [TMI](https://github.com/techmaniasinformation)
-
+  
 ---
 
-### 🔹 SSAFY FORCE – 알고리즘 랭킹 플랫폼
+### 🔹 [SSAFY FORCE – 알고리즘 랭킹 플랫폼](https://github.com/SSAFYFORCE)
 **기간:** 2025.06 ~ 2025.08  
 **인원:** 4명  
 **역할:** Backend 30%, Frontend 30%
@@ -117,10 +114,7 @@
 
 - **기술 포인트**  
   `Spring Boot`, `JPA`, `MySQL`, `Vue.js`
-
-- **링크** : 
-  [ssafy-force](https://github.com/SSAFYFORCE)
-
+  
 ---
 
 ## Troubleshooting Highlights
